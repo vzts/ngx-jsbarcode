@@ -7,7 +7,7 @@
     "prepublish": "rm -rf lib && ngc"
   },
   "dependencies": {
-    "jsbarcode": "^3.8.0"
+    "jsbarcode": "^3.11.0"
   },
   "devDependencies": {
     "@angular/compiler": "^4.4.3",
